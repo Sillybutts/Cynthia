@@ -1,5 +1,5 @@
 # Cynthia
-Cynthia is a bolt action blaster, similar to CaptainSlug's Indra design. 
+Cynthia is a bolt action blaster, similar to the Indra (a blaster by CaptainSlug).
 
 ## Description
 
