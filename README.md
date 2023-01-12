@@ -67,6 +67,12 @@ Infills:
 
 Full hardware list: https://docs.google.com/spreadsheets/d/1t6-6BqBstn1Ad-zIxsB0FqWth3nB00lHC9SVksAbSmY/edit?usp=sharing
 
+H4 bar spec for those interested: 
+
+<img src="H4%20bar%20spec.PNG" width="500">
+
+H4 bars can be cut down from C4 bars using the bar cutting tool (included in Cynthia files).
+
 ## Assembly
 
 Video: WIP
