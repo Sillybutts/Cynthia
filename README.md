@@ -50,6 +50,8 @@ Fully printed/assembled blasters are available from these sellers:
 
 ## Print Info
 
+### I recommend you print each tall part one at a time, and with a big brim.
+
 Infills:
 - Black: 
 - - PlungerRod, PlungerCap, 100% Gyroid, 5+ walls.
