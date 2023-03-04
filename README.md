@@ -60,6 +60,7 @@ Infills:
 
 - Orange: 
 - - BoltBase, BoltHandle, Catch, CatchPusher, PlungerHead, 100% infill, 5 walls.
+- - BoltHandle, FrontGripKeeper need brims.
 - - Everything else, 20% Gyroid, 5 walls. 
 
 - Green: 
