@@ -59,7 +59,7 @@ Infills:
 - - Everything else, 20% Gyroid, 5 walls. 
 
 - Orange: 
-- - BoltBase, BoltHandle, Catch, CatchPusher, PlungerHead, 100% infill, 5 walls.
+- - BoltBase, BoltHandle, FrontGripKeeper, Catch, CatchPusher, PlungerHead, 100% infill, 5 walls.
 - - BoltHandle, FrontGripKeeper need brims.
 - - Everything else, 20% Gyroid, 5 walls. 
 
