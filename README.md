@@ -50,8 +50,6 @@ Fully printed/assembled blasters are available from these sellers:
 
 ## Print Info
 
-### I recommend you print each tall part one at a time, and with a big brim.
-
 Infills:
 - Black: 
 - - PlungerRod, PlungerCap, 100% Gyroid, 5+ walls.
@@ -65,6 +63,8 @@ Infills:
 
 - Green: 
 - - MagwellBack, 100% infill, 5 walls.
+- - All the tall green parts benefit from a brim.
+- - To be safe, I recommend you print each tall part one at a time.
 - - Everything else, 20% Gyroid, 5 walls. 
 
 # THIS BLASTER IS NOT YET RELEASED. THERE ARE NO FILES, YOU CAN NOT GET ONE YET.
