@@ -55,6 +55,7 @@ Fully printed/assembled blasters are available from these sellers:
 Infills:
 - Black: 
 - - PlungerRod, PlungerCap, 100% Gyroid, 5+ walls.
+- - ThumbholeStock needs a brim.
 - - Everything else, 20% Gyroid, 5 walls. 
 
 - Orange: 
