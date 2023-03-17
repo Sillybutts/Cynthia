@@ -62,7 +62,7 @@ Infills:
 - - Everything else, 20% Gyroid, 5 walls. 
 
 - Green: 
-- - MagwellBack, 100% infill, 5 walls.
+- - MagwellBack, Magwell_L, Magwell_R, Grip_L, Grip_R, 100% infill, 5 walls.
 - - All the tall green parts benefit from a brim.
 - - To be safe, I recommend you print each tall part one at a time.
 - - Everything else, 20% Gyroid, 5 walls. 
