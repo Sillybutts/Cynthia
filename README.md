@@ -1,17 +1,16 @@
 # Cynthia
-Cynthia is a bolt action blaster, similar to the Indra (a blaster by CaptainSlug).
+Cynthia is a Talon mag fed bolt action blaster, customizable for any need.
 
 ## Description
 
-# THIS BLASTER IS NOT YET RELEASED. THERE ARE NO FILES, YOU CAN NOT GET ONE YET.
-
-Cynthia is a bolt action blaster using the same basic layout as the Indra by CaptainSlug. Cynthia began with me figuring out how to fix all the issues with the Indra. I pretty quickly realized it would be easier to design a whole new blaster from the ground up than to fix the Indra part by part.
+Cynthia is a bolt action blaster using the same basic layout as the Indra by CaptainSlug. Cynthia began with me figuring out how to fix all the issues with the Indra, but I pretty quickly realized it would be easier to design a whole new blaster from the ground up, rather than to fix the Indra part by part.
 Cynthia contains no original Indra parts.
 
 ## What does Cynthia fix vs the Indra?
-Cynthia fixes almost all the issues the Indra had:
+
+The Indra by CaptainSlug is infamous for it's many issues. Thankfully, Cynthia fixes almost all the issues the Indra had:
 - Fixed catch reliability by using the plunger system from the SLAB (modified to be longer)
-- Improved plunger tube attachment strength
+- Improved plunger tube attachment strength (glue and more attachment area)
 - Improved ramrod retention
 - Made Cynthia slimmer
 - Lengthened the stock to be Caliburn V4 length.
@@ -26,25 +25,37 @@ Cynthia fixes almost all the issues the Indra had:
 ## Optional Parts
 
 There are many variant parts for Cynthia:
+- Left and right handed parts
 - Front Ends
 - - Cynthia text or no Cynthia text
 - - Ported and unported
+- - Side rail or no side rail
 - - Slim front end
-- Pump action conversion kit (WIP)
+- - Stubby short front end
 - Two grip styles
+- Several trigger styles
 - Thumbhole stock or no thumbhole stock
 - Fully enclosed plunger tube travel space, or open plunger tube space
-- Several bolt handle options and lengths
-- Several mag release options
-- Locking bolt handle or freely-moving bolt handle
+- - Fully enclosed is good for people with beards, to protect yourself from hair-rippage during priming
+- Tons of bolt handle options and lengths
+- Locking bolt handle (for "realistic" bolt action coolness) or freely-moving bolt handle
+- - Optional ball detent makes the bolt handle clicky as well, which feels really good.
+- Optional muzzle with extra bottom picatinny (for bipod mounting)
+- Optional picatinny rail replacements with no picatinny, for aesthetic sleekness
+- Optional front grip
+- etc
+
+
 
 
 ## Sellers
 Hardware is available from these sellers:
-- WIP
+- OutOfDarts: WIP
+- SilverFoxIndustries: WIP
 
 Fully printed/assembled blasters are available from these sellers:
-- WIP
+- OutOfDarts: WIP
+- SilverFoxIndustries: WIP
 
 ## Print Info
 
@@ -65,7 +76,6 @@ Infills:
 - - To be safe, I recommend you print each tall part one at a time.
 - - Everything else, 20% Gyroid, 5 walls. 
 
-# THIS BLASTER IS NOT YET RELEASED. THERE ARE NO FILES, YOU CAN NOT GET ONE YET.
 
 ## Hardware
 
