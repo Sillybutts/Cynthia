@@ -129,3 +129,12 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 <img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%206.png" width="500">
 <img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%207.png" width="500">
 <img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%208.png" width="500">
+<img src="GHimages/triggers.png" width="500">
+<img src="GHimages/front%20grip.png" width="500">
+<img src="GHimages/muzzle%20bottom%20picatinny.png" width="500">
+<img src="GHimages/normal.png" width="500">
+<img src="GHimages/side%20rail.png" width="500">
+<img src="GHimages/slim%20with%20front%20grip.png" width="500">
+<img src="GHimages/slim.png" width="500">
+<img src="GHimages/stocks.png" width="500">
+<img src="GHimages/stubby.png" width="500">
