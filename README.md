@@ -110,11 +110,11 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v25%201.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v25%202.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v25%203.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v25%204.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v25%205.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v25%206.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v25%207.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v25%208.png" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%201.png" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%202.png" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%203.png" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%204.png" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%205.png" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%206.png" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%207.png" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%208.png" width="500">
