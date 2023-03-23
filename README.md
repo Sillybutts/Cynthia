@@ -84,6 +84,8 @@ Infills:
 - - To be safe, I recommend you print each tall part one at a time.
 - - Everything else, 20% Gyroid, 5 walls. 
 
+<img src="GHimages/print%20orientation%20messy.png" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%20Color%20Guide.png" width="500">
 
 ## Hardware
 
@@ -146,3 +148,5 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 <img src="GHimages/slim.png" width="500">
 <img src="GHimages/stocks.png" width="500">
 <img src="GHimages/stubby.png" width="500">
+<img src="GHimages/print%20orientation%20messy.png" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%20Color%20Guide.png" width="500">
