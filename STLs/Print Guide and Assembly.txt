@@ -1,0 +1,38 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PRINT GUIDE: Cynthia Bolt Action Blaster
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Printing Info
+All STLs were exported in print orientation. F3D & STEP source files are also provided.
+
+This blaster is designed for PLA parts. Printing in other filaments (like PETG) should be fine, but might lead to broken parts.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Infills:
+- Black: 
+- - PlungerRod, PlungerCap, 100% Gyroid, 5+ walls.
+- - ThumbholeStock needs a brim.
+- - Everything else, 20% Gyroid, 5 walls. 
+
+- Orange: 
+- - BoltBase, BoltHandle, FrontGripKeeper, Catch, CatchPusher, PlungerHead, 100% infill, 5 walls.
+- - BoltHandle, FrontGripKeeper, CatchPusher need brims.
+- - Everything else, 20% Gyroid, 5 walls. 
+
+- Green: 
+- - MagwellBack, Magwell_L, Magwell_R, Grip_L, Grip_R, 100% infill, 5 walls.
+- - All the tall green parts benefit from a brim.
+- - To be safe, I recommend you print each tall part one at a time.
+- - Everything else, 20% Gyroid, 5 walls. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MegaXL Spigot SCAR Print Settings
+
+Included in the SLAB fileset is a SCAR that allows you to fire MegaXL darts, and have a fully air-sealed SCAR.
+
+Print all of the SCAR at 5 walls 20% infill. No supports are necessary, but a brim might be needed to print smoothly.
+
+Make sure the Z-Seam is straight down one side of the SCAR. Otherwise, it might not launch MegaXL as nicely, and it looks bad with misaligned Z-Seams.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ASSEMBLY: WIP VIDEO
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
