@@ -43,6 +43,7 @@ There are many variant parts for Cynthia:
 - Optional muzzle with extra bottom picatinny (for bipod mounting)
 - Optional picatinny rail replacements with no picatinny, for aesthetic sleekness
 - Optional front grip
+- Magwell panels with or without elastic holes, respectively for use with elastic or a spring on the mag release
 - etc
 
 
