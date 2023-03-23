@@ -1,6 +1,10 @@
 # Cynthia
 Cynthia is a Talon mag fed bolt action blaster, customizable for any need.
 
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%206.png" width="400"><img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%207.png" width="400">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%205.png" width="400"><img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%204.png" width="400">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%202.png" width="400"><img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%203.png" width="400">
+
 ## Description
 
 Cynthia is a bolt action blaster using the same basic layout as the Indra by CaptainSlug. Cynthia began with me figuring out how to fix all the issues with the Indra, but I pretty quickly realized it would be easier to design a whole new blaster from the ground up, rather than to fix the Indra part by part.
@@ -46,8 +50,11 @@ There are many variant parts for Cynthia:
 - Magwell panels with or without elastic holes, respectively for use with elastic or a spring on the mag release
 - etc
 
-
-
+<img src="GHimages/front%20grip.png" width="400"><img src="GHimages/muzzle%20bottom%20picatinny.png" width="400">
+<img src="GHimages/side%20rail.png" width="400"><img src="GHimages/slim%20with%20front%20grip.png" width="400">
+<img src="GHimages/stocks.png" width="400"><img src="GHimages/triggers.png" width="400">
+<img src="GHimages/stubby.png" width="400"><img src="GHimages/slim.png" width="400">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%208.png" width="500">
 
 ## Sellers
 Hardware is available from these sellers:
@@ -117,6 +124,7 @@ Video: WIP
 <a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> https://www.buymeacoffee.com/sillybutts One-time donations
 
 And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
+
 
 
 ## Images
