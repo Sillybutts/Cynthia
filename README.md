@@ -112,6 +112,4 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
-<img src="GHimages/Silly%20got%20his%20Trion.png" width="500">
-<img src="GHimages/Trion%20spacers.png" width="500">
-<img src="GHimages/Willis%20Trion%20on%20Dart%20Zone%20Stream%20Cropped.jpg" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v25%201.png" width="500">
