@@ -5,8 +5,6 @@ Cynthia is a bolt action blaster, similar to the Indra (a blaster by CaptainSlug
 
 # THIS BLASTER IS NOT YET RELEASED. THERE ARE NO FILES, YOU CAN NOT GET ONE YET.
 
-<img src="GHimages/Silly%20got%20his%20Trion.png" width="500">
-
 Cynthia is a bolt action blaster using the same basic layout as the Indra by CaptainSlug. Cynthia began with me figuring out how to fix all the issues with the Indra. I pretty quickly realized it would be easier to design a whole new blaster from the ground up than to fix the Indra part by part.
 Cynthia contains no original Indra parts.
 
