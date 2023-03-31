@@ -47,6 +47,9 @@ The Indra by CaptainSlug is infamous for it's many issues. Thankfully, Cynthia f
 - The thumbhole stock is easily removable, and is not required (on the Indra, the stock rod is required for blaster rigidity)
 - Probably more stuff that I can't remember
 
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%202.png" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%203.png" width="500">
+
 ## Optional Parts
 
 There are many variant parts for Cynthia:
