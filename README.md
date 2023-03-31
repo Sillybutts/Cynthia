@@ -20,7 +20,7 @@ Cynthia contains no original Indra parts.
 
 Firing Demo: https://youtube.com/clip/UgkxEHjsmXU370IFB8PHDxiK1v4qDb7vdCwZ
 
-Blaster Overview: https://www.youtube.com/watch?v=nF_tcDXLQYM
+Blaster Overview: https://youtu.be/mIW0dAyOCv0
 
 Customization Overview: https://www.youtube.com/watch?v=mZe6dWdQUs0
 
