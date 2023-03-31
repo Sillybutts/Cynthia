@@ -1,6 +1,13 @@
 # Cynthia
 Cynthia is a Talon mag fed bolt action blaster, customizable for any need.
 
+<details>
+<summary>Changelog (click this text, it's a dropdown!)</summary>
+
+- Changelog: 3-31-2023: Blaster release.
+  
+</details>
+
 <img src="GHimages/Cynthia%20Bolt%20Action%2011v31%20color%20showoff%20v29%20-%20Copy.png" width="500">
 <img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%206.png" width="500">
 <img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%207.png" width="500">
@@ -12,6 +19,19 @@ Cynthia is a Talon mag fed bolt action blaster, customizable for any need.
 
 Cynthia is a bolt action blaster using the same basic layout as the Indra by CaptainSlug. Cynthia began with me figuring out how to fix all the issues with the Indra, but I pretty quickly realized it would be easier to design a whole new blaster from the ground up, rather than fix the Indra part by part.
 Cynthia contains no original Indra parts.
+
+Firing Demo: https://youtube.com/clip/UgkxEHjsmXU370IFB8PHDxiK1v4qDb7vdCwZ
+
+Blaster Overview: https://www.youtube.com/watch?v=nF_tcDXLQYM
+
+Customization Overview: https://www.youtube.com/watch?v=mZe6dWdQUs0
+
+Assembly Video: WIP
+
+## Reviews
+
+Videos:
+- BansheeIndian: https://www.youtube.com/watch?v=CzInCRDko88
 
 ## What does Cynthia fix vs the Indra?
 
@@ -59,6 +79,19 @@ There are many variant parts for Cynthia:
 <img src="GHimages/stubby.png" width="400"><img src="GHimages/slim.png" width="400">
 <img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%208.png" width="500">
 
+Here are some good Picatinny sights if you want some:
+- https://www.thingiverse.com/thing:2376150/files FrontPip and Pip in the Caliburn fileset are great iron sights.
+- https://www.thingiverse.com/thing:1667830
+- https://www.thingiverse.com/thing:2829229
+- https://www.thingiverse.com/thing:5103083
+
+### Performance:
+As testing is done, I will update this part of the page with common spring/barrel combos for specific FPS numbers.
+
+Keep in mind that SCARs usually reduce performance a bit.
+
+Cynthia performance can be roughly approximated by using Talon Claw T4 performance estimates (in regards to barrel length and spring choice).
+
 ## Sellers
 Hardware is available from these sellers:
 - OutOfDarts: https://outofdarts.com/products/cynthia-hardware-kit
@@ -69,6 +102,8 @@ Fully printed/assembled blasters are available from these sellers:
 - SilverFoxIndustries: WIP
 
 ## Print Info
+
+Cynthia uses less than one 1kg PLA spool (if you were to print it all one color).
 
 Infills:
 - Black: 
@@ -105,6 +140,22 @@ H4 bars can be cut down from C4 bars using the bar cutting tool (included in Cyn
 ## Assembly
 
 Video: WIP
+Plunger Tube Gluing Guide: https://www.youtube.com/watch?v=0BNuwjhlNqI
+
+### Beta Tester Thanks
+<details>
+<summary>Thanks to my beta testers who contributed features and variant parts to Cynthia! Here's a list of who did what: (click this text)</summary>
+
+- Chance made a new trigger for Cynthia, fixed some trigger wobble issues, and recommended adding a ball detent to the bolt handle.
+
+Also, thanks to all my beta testers for their feedback while designing Cynthia. Couldn't have done it (this well) without you guys(and gals)!
+
+- Chance
+- WonderBoy
+- BansheeIndian
+- Greg from OutOfDarts
+  
+</details>
 
 ## Misc.
 
