@@ -1,9 +1,10 @@
 # Cynthia
 Cynthia is a Talon mag fed bolt action blaster, customizable for any need.
 
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%206.png" width="400"><img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%207.png" width="400">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%205.png" width="400"><img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%204.png" width="400">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%202.png" width="400"><img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%203.png" width="400">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011v31%20color%20showoff%20v29%20-%20Copy.png" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%206.png" width="500">
+<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%207.png" width="500">
+
 
 # THIS BLASTER RELEASES ON THE 30TH/31ST OF MARCH, 2023. DOWNLOADS BEFORE THEN WILL LIKELY HAVE UNFINISHED PARTS.
 
