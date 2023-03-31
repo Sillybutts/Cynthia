@@ -142,6 +142,8 @@ H4 bars can be cut down from C4 bars using the bar cutting tool (included in Cyn
 
 Video: WIP
 
+Catch assembly: https://youtu.be/D5Ouzac-vMs
+
 Plunger Tube Gluing Guide: https://www.youtube.com/watch?v=0BNuwjhlNqI
 (Super glue works, epoxy is best)
 
