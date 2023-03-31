@@ -60,8 +60,8 @@ There are many variant parts for Cynthia:
 
 ## Sellers
 Hardware is available from these sellers:
-- OutOfDarts: WIP
-- SilverFoxIndustries: WIP
+- OutOfDarts: https://outofdarts.com/products/cynthia-hardware-kit
+- SilverFoxIndustries: https://silverfoxindustries.shop/collections/new-products/products/cynthia-hardware-kit
 
 Fully printed/assembled blasters are available from these sellers:
 - OutOfDarts: WIP
@@ -85,6 +85,8 @@ Infills:
 - - All the tall green parts benefit from a brim.
 - - To be safe, I recommend you print each tall part one at a time.
 - - Everything else, 20% Gyroid, 5 walls. 
+
+Some parts have tight tolerances (mainly the dovetails in the catch area on the top cover print). Sanding and/or filing is recommended to make the dovetails go together smoothly. The top cover part can be broken if you try and force the dovetails together.
 
 <img src="GHimages/print%20orientation%20messy.png" width="500">
 <img src="GHimages/Cynthia%20Bolt%20Action%20Color%20Guide.png" width="500">
@@ -126,9 +128,6 @@ Video: WIP
 <a href="https://www.patreon.com/sillybutts/"><img alt="Patreon Button" style="border-width:0" src="GHimages/PatreonButton.png" height="50" /></a> https://www.patreon.com/sillybutts Monthly donations
 
 <a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> https://www.buymeacoffee.com/sillybutts One-time donations
-
-And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
-
 
 
 ## Images
