@@ -13,8 +13,6 @@ Cynthia is a Talon mag fed bolt action blaster, customizable for any need.
 <img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%207.png" width="500">
 
 
-# THIS BLASTER RELEASES ON THE 30TH/31ST OF MARCH, 2023. DOWNLOADS BEFORE THEN WILL LIKELY HAVE UNFINISHED PARTS.
-
 ## Description
 
 Cynthia is a bolt action blaster using the same basic layout as the Indra by CaptainSlug. Cynthia began with me figuring out how to fix all the issues with the Indra, but I pretty quickly realized it would be easier to design a whole new blaster from the ground up, rather than fix the Indra part by part.
