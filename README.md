@@ -140,6 +140,7 @@ H4 bars can be cut down from C4 bars using the bar cutting tool (included in Cyn
 ## Assembly
 
 Video: WIP
+
 Plunger Tube Gluing Guide: https://www.youtube.com/watch?v=0BNuwjhlNqI
 
 ### Beta Tester Thanks
