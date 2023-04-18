@@ -24,7 +24,7 @@ Blaster Overview: https://youtu.be/mIW0dAyOCv0
 
 Customization Overview: https://www.youtube.com/watch?v=mZe6dWdQUs0
 
-Assembly Video: WIP
+Assembly Video: https://youtu.be/j310YjRcwpU
 
 ## Reviews
 
@@ -140,7 +140,7 @@ H4 bars can be cut down from C4 bars using the bar cutting tool (included in Cyn
 
 ## Assembly
 
-Video: WIP
+Video: https://youtu.be/j310YjRcwpU
 
 Catch assembly: https://youtu.be/D5Ouzac-vMs
 
