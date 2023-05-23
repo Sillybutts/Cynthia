@@ -94,6 +94,8 @@ Keep in mind that SCARs usually reduce performance a bit.
 Cynthia performance can be roughly approximated by using Talon Claw T4 performance estimates (in regards to barrel length and spring choice).
 
 ## Sellers
+A full list of non-US sellers can be found here: https://www.stuffbysilly.com/wheretobuy
+
 Hardware is available from these sellers:
 - OutOfDarts: https://outofdarts.com/products/cynthia-hardware-kit
 - SilverFoxIndustries: https://silverfoxindustries.shop/collections/new-products/products/cynthia-hardware-kit
