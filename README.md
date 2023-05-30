@@ -101,7 +101,7 @@ Hardware is available from these sellers:
 - SilverFoxIndustries: https://silverfoxindustries.shop/collections/new-products/products/cynthia-hardware-kit
 
 Fully printed/assembled blasters are available from these sellers:
-- OutOfDarts: WIP
+- OutOfDarts: https://outofdarts.com/products/cynthia-3d-parts-hardware-kit
 - SilverFoxIndustries: WIP
 
 ## Print Info
