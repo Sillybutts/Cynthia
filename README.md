@@ -29,6 +29,12 @@ Assembly Video: https://youtu.be/j310YjRcwpU
 ## Reviews
 
 Videos:
+
+- Coop772: https://youtu.be/EAlBAFHLBZ4?si=m3mHurtMuX4kwWqg
+- Captain Xavier: https://youtu.be/w24jp0K5Wfk?si=fWUyEQeJ973HoaAR
+- Boomstick Mods: https://youtu.be/WF5V2YcIIjc?si=WsV3GZjRpdS0lTr-
+- ZDL (China Spec): https://youtu.be/mkXsqYBOBpE?si=tJq3lU1MIqGpPgKb
+- WalcomS7: https://www.youtube.com/watch?v=UhGpRX_KlXE
 - BansheeIndian: https://www.youtube.com/watch?v=CzInCRDko88
 
 ## What does Cynthia fix vs the Indra?
