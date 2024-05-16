@@ -1,5 +1,5 @@
 # Cynthia
-Cynthia is a Talon mag fed bolt action blaster, customizable for any need.
+Cynthia is a Talon mag fed bolt action blaster, customizable for any need. 
 
 <details>
 <summary>Changelog (click this text, it's a dropdown!)</summary>
