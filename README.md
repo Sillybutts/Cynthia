@@ -13,6 +13,11 @@ Cynthia is a Talon mag fed bolt action blaster, customizable for any need.
 <img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%207.png" width="500">
 
 
+<a href="https://www.printables.com/model/822838-cynthia-bolt-action-blaster-nerf-homemade"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/822838-cynthia-bolt-action-blaster-nerf-homemade
+
+
 ## Description
 
 Cynthia is a bolt action blaster using the same basic layout as the Indra by CaptainSlug. Cynthia began with me figuring out how to fix all the issues with the Indra, but I pretty quickly realized it would be easier to design a whole new blaster from the ground up, rather than fix the Indra part by part.
